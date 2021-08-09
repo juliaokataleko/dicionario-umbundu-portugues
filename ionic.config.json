@@ -1,0 +1,7 @@
+{
+  "name": "DicionarioUmbunduPortugues",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
